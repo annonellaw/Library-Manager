@@ -1,0 +1,3518 @@
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:15:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:15:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:21:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:21:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:24:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:24:01'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:37:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:37:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:42:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:42:51'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 14:45:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 14:45:56'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 15:16:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 15:16:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 15:19:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 15:19:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 15:22:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 15:22:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 15:28:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 15:28:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-16 15:42:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-16 15:42:51'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 10:49:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 10:49:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 11:34:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 11:34:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 11:40:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 11:40:25'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 11:51:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 11:51:12'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 11:51:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 11:51:40'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 12:01:13'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 12:01:14'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 12:10:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 12:10:30'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 12:11:56'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 12:11:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:16:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:16:52'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:19:15'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:19:22'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:20:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:20:30'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:20:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:20:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:22:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:22:03'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-17 13:24:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-17 13:24:26'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:23:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:23:50'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:25:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:25:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:31:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:31:58'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:35:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:35:22'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:36:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:36:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:38:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:38:23'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:51:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:51:23'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:52:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:52:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:53:37'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:53:37'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:54:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:54:50'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 11:56:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 11:56:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:01:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:01:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:02:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:02:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:05:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:05:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:26:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:26:39'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:27:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:27:01'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:44:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:44:47'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:48:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:48:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 12:49:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 12:49:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:12:56'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:12:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:14:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:14:55'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:26:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:26:51'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:28:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:28:46'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:32:41'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:32:42'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:38:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:38:34'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:39:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:39:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:44:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:44:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:51:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:51:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:52:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:52:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 13:56:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 13:56:14'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:13:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:13:38'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:14:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:14:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:16:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:16:34'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:16:56'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:16:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:19:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:19:19'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:20:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:20:07'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:23:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:23:01'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:26:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:26:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:49:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:49:46'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:51:02'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:51:03'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:52:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:52:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:54:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:54:10'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:54:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:54:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:56:16'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:56:23'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:56:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:56:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 14:59:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 14:59:12'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:04:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:04:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:06:31'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:06:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:07:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:07:19'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:09:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:09:21'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:12:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:12:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:13:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:13:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:22:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:22:39'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:24:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:24:25'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:33:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:33:46'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:34:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:34:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:35:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:35:55'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:44:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:44:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:44:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:44:56'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:45:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:45:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:47:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:47:37'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 15:48:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 15:48:31'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:01:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:01:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:02:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:02:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:04:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:04:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:04:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:04:56'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:06:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:06:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:08:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:08:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:10:34'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:10:35'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:12:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:12:24'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:14:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:14:40'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:15:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:15:26'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:16:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:16:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:18:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:18:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:19:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:19:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:29:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:29:58'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:34:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:34:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:37:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:37:04'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:38:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:38:21'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 16:40:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 16:40:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:21:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:21:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:22:31'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:22:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:23:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:23:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:25:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:25:51'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:29:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:29:55'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:32:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:32:02'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:42:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:42:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-20 20:44:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-20 20:44:30'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 09:44:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/Books?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 09:44:40'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 09:45:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 09:45:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 09:50:56'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 09:50:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 09:53:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 09:53:02'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 09:59:15'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 09:59:16'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:02:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:02:55'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:04:59'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:05:00'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:05:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:05:25'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:06:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:06:23'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:08:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:08:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:09:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:09:07'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:11:34'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:11:35'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:12:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:12:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:14:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:14:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:27:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:27:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:45:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:45:02'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:45:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:45:30'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:46:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:46:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:46:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:46:39'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:47:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:47:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:49:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:49:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:52:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:52:01'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:52:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:53:00'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:56:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:56:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 10:56:37'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 10:56:38'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:01:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:01:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:01:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:01:48'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:04:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:04:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:04:47'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:04:48'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:05:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:05:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:05:34'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:05:35'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:06:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:06:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:10:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:10:31'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:11:16'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:11:16'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:11:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:11:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:13:43'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:13:44'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:14:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:14:24'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:15:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:15:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:16:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:16:20'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:17:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:17:12'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:19:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:19:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:21:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:21:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:30:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:30:22'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:32:13'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:32:14'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:32:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:32:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:36:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:36:21'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:38:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:38:48'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:39:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:39:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:41:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:41:18'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:42:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:42:40'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:42:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:42:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:45:41'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:45:42'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:46:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:46:23'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 11:58:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 11:58:34'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:00:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:00:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:02:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:02:28'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:03:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:03:50'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:04:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:04:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:05:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:05:20'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:39:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:39:20'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:39:47'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:39:48'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:43:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:43:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:45:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:45:19'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:45:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:45:30'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:46:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:46:39'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:47:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:47:19'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:47:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:47:54'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:50:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:50:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:50:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:50:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:52:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:52:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:56:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:56:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:58:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:58:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 12:59:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 12:59:10'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:01:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:01:27'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:02:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:02:47'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:04:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:04:46'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:06:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:06:49'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:08:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:08:02'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:09:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:09:49'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:11:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:11:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:19:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:19:31'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:20:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:20:07'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:21:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:21:04'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:22:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:22:01'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:22:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:22:21'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:23:31'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:23:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:25:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:25:28'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:27:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:27:08'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:28:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:28:12'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:30:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:30:18'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:34:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:34:05'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:37:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:37:49'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:42:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:42:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:43:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:43:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:44:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:44:40'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:45:13'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:45:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 13:59:31'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 13:59:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:02:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:02:18'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:11:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:11:55'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:12:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:12:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:33:12'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:33:12'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:34:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:34:31'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:40:56'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:40:57'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:43:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:43:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:46:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:46:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:53:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:53:51'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 14:57:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 14:57:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:04:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:04:53'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:12:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:12:52'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:19:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:19:25'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:38:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:38:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:49:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:49:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 15:52:15'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 15:52:16'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 17:15:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 17:15:33'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 17:16:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 17:16:07'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 17:16:40'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 17:16:47'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 17:17:13'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 17:17:14'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 19:46:41'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 19:46:42'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 19:47:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 19:47:49'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 19:50:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 19:50:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 20:04:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 20:04:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 20:12:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 20:12:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-21 20:20:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-21 20:20:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-28 16:57:15'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-28 16:58:22'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-28 18:09:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-28 18:09:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-28 19:04:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-28 19:04:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-03-28 19:47:08'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-03-28 19:47:09'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 13:46:31'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 13:46:32'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 13:53:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 13:53:15'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 13:54:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 13:54:36'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 13:55:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 13:55:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 13:56:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 13:56:59'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:00:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:00:11'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:02:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:02:27'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:04:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:04:06'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:05:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:05:29'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:07:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:07:50'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:12:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:12:45'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:19:59'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:20:00'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:22:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:22:27'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:22:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:22:43'
+}
+{
+  message: '[express] listening on 127.0.0.1:8889',
+  level: 'info',
+  timestamp: '2022-04-01 14:23:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:23:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:26:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:27:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:31:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:34:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:35:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:36:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:37:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:40:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:41:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:42:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:43:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:45:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:53:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 14:56:16'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:00:47'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:01:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:02:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:04:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:20:32'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:21:02'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:22:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:24:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:26:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:27:43'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:28:39'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:29:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 15:30:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 19:02:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 19:33:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 19:35:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-01 19:41:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-02 20:11:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 13:40:40'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 13:58:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 13:58:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:02:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:04:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:07:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:15:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:27:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:30:59'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:31:58'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:36:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:38:47'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:41:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:52:42'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:56:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:58:53'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 14:59:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 15:00:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 15:00:37'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-03 15:05:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 09:46:20'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 10:43:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 10:56:13'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 10:56:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 10:59:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:11:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:12:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:14:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:15:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:58:15'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 11:58:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:00:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:04:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:06:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:09:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:10:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:17:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:18:00'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:25:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:29:04'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:34:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:35:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:36:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:43:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:45:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:47:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:52:02'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:52:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:53:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:53:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 12:55:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:01:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:07:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:10:52'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:11:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:13:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:15:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:19:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:20:45'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:23:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:25:05'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:25:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:27:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 13:29:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:08:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:09:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:10:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:12:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:14:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:14:37'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:23:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:24:41'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:26:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:32:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:51:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 14:58:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:02:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:03:54'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:08:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:10:50'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:13:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:15:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:16:11'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:18:35'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:19:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:21:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:23:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:24:22'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:25:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:27:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:27:59'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:30:25'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:32:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:35:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:37:33'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:39:49'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:40:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 15:49:59'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:01:16'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:15:02'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:16:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:17:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:24:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:25:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:31:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:33:37'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:38:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:44:03'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:45:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-04 16:48:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:05:26'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:06:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:27:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:28:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:31:48'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:35:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:38:28'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:41:01'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:43:36'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:50:46'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:58:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 09:59:23'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:00:57'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:02:44'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:04:51'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:06:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:08:17'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:09:18'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:09:55'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:10:24'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:11:14'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:12:19'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:13:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:16:07'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:17:09'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:18:06'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:19:38'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:21:29'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:22:30'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2022-04-05 10:27:31'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 11:47:38'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 11:59:10'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 12:07:10'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 12:12:05'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 12:38:32'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 12:40:40'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)',
+  level: 'error',
+  timestamp: '2023-05-08 12:51:01'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 12:56:20'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 12:58:36'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 13:07:09'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 13:07:18'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 13:09:13'
+}
+{
+  message: '[mongodb] Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.qif3q.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:173:17)',
+  level: 'error',
+  timestamp: '2023-05-08 13:11:06'
+}
+{
+  message: "[mongodb] MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n" +
+    '    at NativeConnection.Connection.openUri (C:\\Users\\lemon\\node_modules\\mongoose\\lib\\connection.js:825:32)\n' +
+    '    at C:\\Users\\lemon\\node_modules\\mongoose\\lib\\index.js:414:10\n' +
+    '    at C:\\Users\\lemon\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:41:5\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at promiseOrCallback (C:\\Users\\lemon\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:40:10)\n' +
+    '    at Mongoose._promiseOrCallback (C:\\Users\\lemon\\node_modules\\mongoose\\lib\\index.js:1288:10)\n' +
+    '    at Mongoose.connect (C:\\Users\\lemon\\node_modules\\mongoose\\lib\\index.js:413:20)\n' +
+    '    at module.exports (C:\\Users\\lemon\\desktop\\4020\\a2\\services\\mongo.service.js:17:6)\n' +
+    '    at Object.<anonymous> (C:\\Users\\lemon\\desktop\\4020\\a2\\server.js:25:36)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1101:14)',
+  level: 'error',
+  timestamp: '2023-05-08 13:16:21'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2023-05-08 13:17:27'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2023-05-08 13:27:10'
+}
+{
+  message: '[mongodb] connected to cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority in state=1',
+  level: 'info',
+  timestamp: '2023-05-08 13:30:46'
+}

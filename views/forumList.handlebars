@@ -1,0 +1,176 @@
+
+<ul class="pages">
+    <li class="chat page">
+      
+      <div class="chatArea">
+        <ul class="messages"></ul>
+      </div>
+      <input class="inputMessage" placeholder="Message @ Library Chat"/>
+    </li>
+    <li class="login page">
+      <h1>Chatroom</h1>
+    </div>
+      <div class="form">
+        <h3 class="title">Enter Username</h3>
+        <input class="usernameInput" type="text" maxlength="14" />
+      </div>
+    </li>
+  </ul>
+</div>
+  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script >$(function() {
+  const FADE_TIME = 0;
+
+  const $window = $(window);
+  const $room = $('.room'); 
+  const $usernameInput = $('.usernameInput'); 
+  const $messages = $('.messages');          
+  const $inputMessage = $('.inputMessage');   
+  const $loginPage = $('.login.page');        
+  const $chatPage = $('.chat.page');         
+  
+  const socket = io();
+ let roomName;
+  let username;
+  let connected = false;
+
+
+  const addParticipantsMessage = (data) => {
+    let message = '';
+    if (data.numUsers === 1) {
+      message += `1 Online User`;
+    } else {
+      message += `${data.numUsers} Online Users`;
+    }
+    log(message);
+  }
+
+  const setUsername = () => {
+    username = cleanInput($usernameInput.val().trim());
+    if (username) {
+      $loginPage.fadeOut();
+      $chatPage.show();
+      $loginPage.off('click');
+      socket.emit('add user', username);
+    }
+  }
+
+  const sendMessage = () => {
+    let message = $inputMessage.val();
+    message = cleanInput(message);
+    if (message && connected) {
+      $inputMessage.val('');
+      addChatMessage({ username, message });
+      socket.emit('new message', message);
+    }
+  }
+
+  const log = (message, options) => {
+    const $el = $('<li>').addClass('log').text(message);
+    addMessageElement($el, options);
+  }
+
+  const addChatMessage = (data, options = {}) => {
+    const $usernameDiv = $('<span class="username"/>')
+      .text(data.username);
+    const $messageBodyDiv = $('<span class="messageBody">')
+      .text(data.message);
+    const $messageDiv = $('<li class="message"/>')
+      .data('username', data.username)
+      .append($usernameDiv, $messageBodyDiv);
+    addMessageElement($messageDiv, options);
+  }
+  
+  const addMessageElement = (el, options) => {
+    const $el = $(el);
+
+    if (!options) {
+      options = {};
+    }
+    if (typeof options.fade === 'undefined') {
+      options.fade = true;
+    }
+    if (typeof options.prepend === 'undefined') {
+      options.prepend = false;
+    }
+
+    if (options.fade) {
+      $el.hide().fadeIn(FADE_TIME);
+    }
+    if (options.prepend) {
+      $messages.prepend($el);
+    } else {
+      $messages.append($el);
+    }
+
+    $messages[0].scrollTop = $messages[0].scrollHeight;
+  }
+
+  const cleanInput = (input) => {
+    return $('<div/>').text(input).html();
+  }
+
+  $window.keydown(event => {
+
+    if (!(event.ctrlKey || event.metaKey || event.altKey)) {
+      $usernameInput;
+    }
+ 
+    if (event.which === 13) {
+      if (username) {
+        sendMessage();
+      } else {
+        setUsername();
+      }
+    }
+  });
+
+  socket.io.on('join', () => {
+      roomName = cleanInput($room.val().trim())
+      socket.emit('join', roomName);
+    
+  });
+
+
+
+  socket.on('login', (data) => {
+    connected = true;
+ 
+    const message = 'Welcome to the Library Chat';
+    log(message, {
+      prepend: true
+    });
+    addParticipantsMessage(data);
+  });
+
+  socket.on('new message', (data) => {
+    addChatMessage(data);
+  });
+
+  socket.on('user joined', (data) => {
+    log(`${data.username} has entered the Chat! Say Hello~!`);
+    addParticipantsMessage(data);
+  });
+
+  socket.on('user left', (data) => {
+    log(`${data.username} has left the Chat!`);
+    addParticipantsMessage(data);
+  });
+
+  socket.on('disconnect', () => {
+    log('Disconnected');
+  });
+
+  socket.io.on('reconnect', () => {
+    log('Reconnected! Say Hello to everyone!');
+    if (username) {
+      socket.emit('add user', username);
+    }
+  });
+
+});
+</script>
+
+ 
