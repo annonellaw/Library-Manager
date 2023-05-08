@@ -1,7 +1,7 @@
 /**
  * Professor: Update your Mongodb connection string here or pass in environment variable MONGODB_URL=...
  */
-const MONGODB_URL = "mongodb+srv://ann1271:austin1271@cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority";
+const MONGODB_URL = "mongodb+srv://ann1271:sYNJT4w8DM9wUf7W@cluster0.qif3q.mongodb.net/A2?retryWrites=true&w=majority";
 
 const express = require('express')
 const hbs = require('express-handlebars')
